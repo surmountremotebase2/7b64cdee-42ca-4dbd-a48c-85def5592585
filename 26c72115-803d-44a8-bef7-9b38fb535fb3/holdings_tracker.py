@@ -21,7 +21,7 @@ possible_tickers = [
     "AMZN",
     "NVDA",
     "XOM",
-    "BRK-B",
+    "BRK.B",
     "CRM"
 ]
 
@@ -35,7 +35,7 @@ holdings = {
         "UNH": .05,
         "NVDA": .05,
         "V": .039,
-        "BRK-B": .039,
+        "BRK.B": .039,
         "CRM": .039,    
     },
     "2023-01-31": {
@@ -47,7 +47,7 @@ holdings = {
         "NVDA": .06,
         "UNH": .05,
         "V": .039,
-        "BRK-B": .039,
+        "BRK.B": .039,
         "CRM": .039
     }
 }
